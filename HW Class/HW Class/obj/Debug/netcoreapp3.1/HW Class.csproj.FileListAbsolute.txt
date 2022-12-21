@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\bin\Debug\netcoreapp3.1\HW Class.exe
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\bin\Debug\netcoreapp3.1\HW Class.deps.json
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\bin\Debug\netcoreapp3.1\HW Class.runtimeconfig.json
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\bin\Debug\netcoreapp3.1\HW Class.runtimeconfig.dev.json
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\bin\Debug\netcoreapp3.1\HW Class.dll
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\bin\Debug\netcoreapp3.1\HW Class.pdb
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\obj\Debug\netcoreapp3.1\HW Class.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\obj\Debug\netcoreapp3.1\HW Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\obj\Debug\netcoreapp3.1\HW Class.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\obj\Debug\netcoreapp3.1\HW Class.AssemblyInfo.cs
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\obj\Debug\netcoreapp3.1\HW Class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\obj\Debug\netcoreapp3.1\HW Class.dll
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\obj\Debug\netcoreapp3.1\HW Class.pdb
+C:\Users\User\Desktop\Visual Studio\HW Class\HW Class\obj\Debug\netcoreapp3.1\HW Class.genruntimeconfig.cache

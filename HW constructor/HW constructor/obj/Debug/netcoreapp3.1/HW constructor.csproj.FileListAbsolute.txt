@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\bin\Debug\netcoreapp3.1\HW constructor.exe
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\bin\Debug\netcoreapp3.1\HW constructor.deps.json
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\bin\Debug\netcoreapp3.1\HW constructor.runtimeconfig.json
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\bin\Debug\netcoreapp3.1\HW constructor.runtimeconfig.dev.json
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\bin\Debug\netcoreapp3.1\HW constructor.dll
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\bin\Debug\netcoreapp3.1\HW constructor.pdb
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\obj\Debug\netcoreapp3.1\HW constructor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\obj\Debug\netcoreapp3.1\HW constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\obj\Debug\netcoreapp3.1\HW constructor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\obj\Debug\netcoreapp3.1\HW constructor.AssemblyInfo.cs
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\obj\Debug\netcoreapp3.1\HW constructor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\obj\Debug\netcoreapp3.1\HW constructor.dll
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\obj\Debug\netcoreapp3.1\HW constructor.pdb
+C:\Users\User\Desktop\Visual Studio\HW constructor\HW constructor\obj\Debug\netcoreapp3.1\HW constructor.genruntimeconfig.cache
